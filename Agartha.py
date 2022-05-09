@@ -1,5 +1,5 @@
 """
-Author: Volkan Dindar
+Modder Trhacknon
 """
 try:
     from burp import (IBurpExtender, ITab, IMessageEditorController, IContextMenuFactory)
